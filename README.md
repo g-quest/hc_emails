@@ -1,3 +1,3 @@
 # hc_emails
-Simple exercise using pandas on Hilary Clinton emails. 
-Documented with spyder notebook.
+Class assignment using pandas to preprocess Hilary Clinton's emails. 
+<br>Documented with spyder notebook.
